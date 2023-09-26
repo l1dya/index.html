@@ -32,7 +32,7 @@
                                     <span>Hallo , Saya</span>
                                 </div>
                                 <div class="intro">
-                                    <h2 class="my-name">Ibnu Syawal As-Salim</h2>
+                                    <h2 class="my-name">Lidya Putri Astriani As-Lidya</h2>
                                     <h4>Developer & Digital Marketer</h4>
                                 </div>
                                 <div class="info-content">
@@ -101,13 +101,13 @@
                                             <div class="candidatos">
                                                 <div class="info">
 <ul>
-                                                    <li>SDN LEUWINUTIG 04</li>
+                                                    <li>SDS SURYA PERSADA</li>
            
-                                                    <li>SDN 2 SUKAMULYA</li>
+                                                    <li>MIM 02 DANAKERTA</li>
 
-                                                    <li>SMPN 1 PURWADADI</li>
+                                                    <li>SMPN 2 KEJOBONG</li>
 
-                                                    <li>SMKN 1 PADAHERANG</li>
+                                                    <li>SMKN 1 PUNGGELAN</li>
 
 </ul>
 
